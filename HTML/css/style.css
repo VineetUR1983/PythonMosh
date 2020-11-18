@@ -1,0 +1,30 @@
+body {
+ background-color: lightgray;
+}
+                                                                                  x 
+h1 {
+ color: blue;
+ text-align: left;
+ font-family: Helvetica;
+ font-size: 30px;
+}
+
+h2 {
+ color: blue;
+ text-align: right;
+ font-family: Helvetica;
+ font-size: 22px;
+}
+
+h3 {
+ color: red;
+ text-align: center;
+ font-family: Helvetica;
+ font-size: 16px;
+}
+
+p {
+ font-family: verdana;
+ font-size: 14px;
+ color: coral;
+}
